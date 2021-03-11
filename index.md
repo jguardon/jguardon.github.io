@@ -1,6 +1,6 @@
 ## Información sobre gambas-es.org
 
-Esta madrugada el centro de datos de OVH, donde se aloja nuestro servidor para gambas-es.org,
+Esta madrugada del pasado dia 10 de marzo de 2021, el centro de datos de OVH, donde se aloja nuestro servidor para gambas-es.org,
 ha sufrido un incendio de graves consecuencias.
 
 [Enlace a la noticia en prensa](https://www.adslzone.net/noticias/internet/incendio-ovh-estrasburgo-marzo-2021/)
